@@ -1,6 +1,5 @@
 ## Hi there 👋
 🌱 I’m currently learning Web Frontend Development
-👱‍♀️ I 💛 the color Yellow
 
 <!--
 **asterparedes/asterparedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
